@@ -1,0 +1,9 @@
+<?php
+define("MAXSIZE",700000);
+define("FILETYPES",array(
+	"image/jpeg",
+	"image/gif",
+	"image/png",
+	"application/pdf")
+);
+?>
